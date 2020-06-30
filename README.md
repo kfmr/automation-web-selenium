@@ -11,10 +11,10 @@ Passo a passo:
 - Inserir no campo busca o nome do curso;
 - Clicar no botão de busca;
 - Aparecer o resultado com o nome do curso buscado;
-- Clicar em matricule-se;
+- Clicar em matricule-se.
 #### Resultado esperado
-Ser encaminhado para a página de compra
-Deve aparecer o curso com o nome 
-Deve aparecer o curso com o valor 
+- Ser encaminhado para a página de compra;
+- Deve aparecer o curso com o nome; 
+- Deve aparecer o curso com o valor. 
 
 <img src="Test_Screencast.gif"/> 
